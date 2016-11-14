@@ -1,0 +1,26 @@
+{
+  "name": "livebox-collect",
+  "version": "0.0.2",
+  "description": "Get interesting data out of the Orange Livebox DSL Modem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanfabrice/livebox-collect.git"
+  },
+  "keywords": [
+    "livebox"
+  ],
+  "author": "Jean-Fabrice Bobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanfabrice/livebox-collect/issues"
+  },
+  "homepage": "https://github.com/jeanfabrice/livebox-collect#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "request": "^2.72.0"
+  }
+}
