@@ -3,7 +3,7 @@ Introduction
 ************
 
 Ce simple module nodeJS permet de collecter un certain nombre de données et de métriques sur le modem-route Livebox 4 d'Orange.
-Je l'utilise personnellement pour récupérer les données de ma Livebox, les injecter dans une base InfluxDB et construire des `tableaux de bord<livebox_grafana.json>`_ avec Grafana.
+Je l'utilise personnellement pour récupérer les données de ma Livebox, les injecter dans une base InfluxDB et construire des tableaux de bord (<https://github.com/jeanfabrice/livebox-collect/blob/master/livebox_grafana.json>) avec Grafana.
 
 ********
 Méthodes
