@@ -1,6 +1,6 @@
 {
   "name": "livebox-collect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get interesting data out of the Orange Livebox DSL Modem",
   "main": "index.js",
   "scripts": {
