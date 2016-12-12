@@ -40,8 +40,8 @@ livebox.connect( function( err ) {
 
     // Play with data
     console.log( data );
-  }
-}
+  })
+})
 ```
 
 # Exemple de données recueillies
